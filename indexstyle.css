@@ -1,0 +1,75 @@
+.register
+{
+    text-align: center;
+}
+
+      .logo{
+        height: 50px;
+        padding-right: 5px;
+        padding-top: 5px;
+    }
+    .container{
+      margin-top: 7px;
+        border-radius: 2px;
+          width: -20%;
+          height:72%;
+          background-color: white;
+         border: solid rgb(238, 235, 235);
+        
+        
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+          
+           
+         
+      }
+      input[type=text], select {
+          width: 95%;
+          padding: 10px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          margin-left: 4%;
+        }
+    
+        input[type=email]{
+          width: 95%;
+          padding: 10px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          margin-left: 3%;
+         
+        }
+        input[type=submit] {
+          width:30% ;
+          background-color:  #6596aa;
+          color: black;
+          padding: 10px 20px;
+          margin: 8px 0;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+          box-sizing: border-box;
+          margin-left: 32%;
+         
+        }
+        input[type=number] {
+            width:112% ;
+            color: black;
+            padding: 10px ;
+           
+            box-sizing: border-box;
+          
+          }
+        h2{
+          text-align: center;
+        }
+        .form-control{
+          margin-left: 18%;
+          padding: 10px 20px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+        
+        }
+    
